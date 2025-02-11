@@ -1,0 +1,7 @@
+Cyclistic-Bike-Share-Analysis/
+├── data/                   # Store raw and cleaned data files
+├── scripts/                # Store analysis scripts (R, Python, SQL, etc.)
+├── visuals/                # Store visualizations (charts, graphs, etc.)
+├── reports/                # Store final reports or presentations
+├── README.md               # Project overview
+└── LICENSE                 # Add a license for your project
